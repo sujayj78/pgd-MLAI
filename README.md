@@ -12,7 +12,7 @@ Showcase assignments and group case studies taken up during my [Executive Post G
   - [Melanoma Detection](Melanoma_Detection) : Implementing a multiclass classification model on Skin cancer dataset using a custom model in Tensorflow.
   - [Gesture Recognition](Gesture_Recognition) : Experiment and train a deep learning model to recognise different hand gestures.
 - **Natural Language Processing**
-  - [NER for disease treatment detection](NER_For_Disease_Treatment) : Build a custom Named Entity Recognition model to get list of diseases and their treatment from the dataset. 
+  - [NER for disease treatment detection](NER_Disease_Treatment) : Build a custom Named Entity Recognition model to get list of diseases and their treatment from the dataset. 
   - [Automatic Ticket Classification for a Financial Company](Automatic_Ticket_classification) : Create a model that can automatically classify customer complaints based on products and services that the ticket mentions.
 - **Reinforcement Learning**
   - [Tic-Tac-Toe](Tic-Tac-Toe) : Train a Reinforcement Learning agent to play Tic-Tac-Toe.
